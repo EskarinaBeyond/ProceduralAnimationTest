@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/PA_Test_Leg.obj-6ab58cd5a21bc010493c75a862e267c8.mesh"
+
+[deps]
+
+files=[ "res://.import/PA_Test_Leg.obj-6ab58cd5a21bc010493c75a862e267c8.mesh" ]
+
+source_file="res://Assets/Models/PA_Test_Leg.obj"
+dest_files=[ "res://.import/PA_Test_Leg.obj-6ab58cd5a21bc010493c75a862e267c8.mesh", "res://.import/PA_Test_Leg.obj-6ab58cd5a21bc010493c75a862e267c8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
