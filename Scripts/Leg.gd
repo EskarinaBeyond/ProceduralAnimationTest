@@ -4,7 +4,7 @@ onready var skel = $Leg_Skeleton/Skeleton
 var id
 
 func _ready():
-	id = skel.find_bone("Test")
+	id = skel.find_bone("Bone")
 	set_process(true)
 
 func _process(delta):
